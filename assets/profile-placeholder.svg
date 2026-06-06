@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 900">
+  <rect width="700" height="900" fill="#f5edda"/>
+  <circle cx="350" cy="355" r="150" fill="#ff922b"/>
+  <circle cx="350" cy="310" r="92" fill="#07594c"/>
+  <path d="M145 820c15-220 105-330 205-330s190 110 205 330" fill="#07594c"/>
+  <text x="350" y="690" text-anchor="middle" font-family="monospace" font-size="28" font-weight="bold" fill="#ff922b">&lt;/&gt;</text>
+  <text x="350" y="850" text-anchor="middle" font-family="monospace" font-size="16" fill="#07594c">THAY BANG ANH CUA BAN</text>
+</svg>
